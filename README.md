@@ -103,7 +103,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="mailto:tareqmardini25@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tareqmardini25@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
