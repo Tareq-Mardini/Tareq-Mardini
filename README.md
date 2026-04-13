@@ -99,10 +99,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/mohammad-tareq-mardini-14a679264" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="mailto:your-email@example.com">
+
+<a href="mailto:tareqmardini25@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
