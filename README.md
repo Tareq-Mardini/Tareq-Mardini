@@ -64,14 +64,6 @@
 * Managed full lifecycle: **design → development → deployment**
 * Built responsive and user-friendly interfaces
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tareq-Mardini&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tareq-Mardini&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
