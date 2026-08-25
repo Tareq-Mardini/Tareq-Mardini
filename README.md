@@ -1,72 +1,68 @@
-# Mohammad Tareq Mardini
-
-**Full Stack Web Developer · React.js · Laravel · AI-Integrated Systems**
-
-I build scalable web applications, intelligent AI-powered systems, and production-ready software.
-
-My work focuses on **clean architecture, modern frontend development, robust APIs, and reliable deployment**.
-
----
-
-### Tech
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,react,vue,js,html,css,tailwind,mysql,docker,linux,nginx,githubactions,git,github,electron" />
+<p align="center">
+  <img src="./mohammad_tareq_github_header.gif" width="100%" />
 </p>
 
-`Laravel` `PHP` `React` `Vue` `JavaScript` `MySQL` `Docker` `Linux` `Nginx` `CI/CD` `Electron` `AI / LLM`
+<br>
+
+## About
+
+Full Stack Web Developer focused on building **scalable web applications, intelligent systems, and production-ready software**.
+
+I enjoy working across the full development lifecycle — from architecture and API design to frontend development, AI integration, and deployment.
 
 ---
 
-### What I Build
+## What I Build
 
 * Full-stack web applications
 * RESTful APIs & backend systems
-* AI / LLM integrations & RAG systems
+* AI / LLM & RAG applications
+* E-commerce and business platforms
 * React-based desktop applications
-* E-commerce & business management platforms
-* Production deployments with Docker & Linux VPS
+* Dockerized applications & production deployments
 
 ---
 
-### Selected Work
+## Selected Work
 
-**AI-Powered Document Intelligence**
-RAG platform for querying uploaded documents using semantic search, embeddings, Qdrant, and LLMs.
+**AI Document Intelligence · RAG**
+Document-based AI platform using semantic search, embeddings, Qdrant, and LLMs.
 
 **E-Commerce Platform**
-Modern React e-commerce platform with multilingual support, RTL/LTR, checkout, coupons, orders, and administration.
+Multilingual React e-commerce application with product management, checkout, coupons, orders, and administration.
 
-**Interactive Real Estate Platform**
-Canvas-based visualization system for exploring buildings and apartments through interactive layouts.
+**Real Estate Visualization**
+Interactive Canvas-based platform for exploring buildings and apartments through dynamic layouts.
 
 **Freelancer Marketplace**
-Full-stack Laravel marketplace with authentication, projects, bidding, messaging, payments, and secure file uploads.
+Full-stack Laravel marketplace with projects, bidding, messaging, payments, and secure file uploads.
 
 ---
 
-### Engineering
+## Engineering
 
-`REST APIs` · `MVC` · `Database Design` · `Query Optimization` · `Secure Coding` · `Docker` · `CI/CD` · `Linux VPS`
+`REST APIs` · `MVC` · `Database Design` · `Query Optimization` · `Secure Coding` · `Docker` · `CI/CD` · `Linux VPS` · `Nginx`
 
 ---
 
-### Beyond Code
+## Beyond Development
 
 **400+** algorithmic problems solved
-**B.Eng.** Software Engineering — Syrian Private University
+**B.Eng.** Software Engineering · Syrian Private University
 
 ---
 
-### Connect
+## Connect
 
 <p>
-
+  <a href="mailto:tareqmardini25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/mohammad-tareq-mardini-14a679264">
     <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p>
+<p align="center">
   <sub>Building software that turns complex ideas into practical systems.</sub>
 </p>
