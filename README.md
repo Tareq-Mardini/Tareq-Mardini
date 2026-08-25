@@ -61,9 +61,7 @@ Full-stack Laravel marketplace with authentication, projects, bidding, messaging
 ### Connect
 
 <p>
-  <a href="mailto:tareqmardini25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+
   <a href="https://www.linkedin.com/in/mohammad-tareq-mardini-14a679264">
     <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
